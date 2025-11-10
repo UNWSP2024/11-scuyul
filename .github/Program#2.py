@@ -1,4 +1,4 @@
-#Program 2: Griffin Corniea, Info getter
+#Program 2: Griffin Corniea, Info getter, 11/10/25
 import tkinter as tk
 
 def show_info():

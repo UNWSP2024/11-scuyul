@@ -1,4 +1,4 @@
-#Program 1: Griffin Corniea, Qoute displayer
+#Program 1: Griffin Corniea, Qoute displayer, 11/10/25
 import tkinter as tk
 
 saying = ('"And yet the one that comforts even the sinner is a blessed soul indeed -Griffin"')
